@@ -41,9 +41,11 @@ plt.show()
 
 ```
 ## Output
-![image](https://github.com/Harish2404lll/Univariate-Linear-Regression/assets/141472096/0383d432-8514-4b48-a768-813938f44213)
+![image](https://github.com/Harish2404lll/Univariate-Linear-Regression/assets/141472096/23ee4823-7efa-4eda-aff3-14ebac0f54f1)
 
-![image](https://github.com/Harish2404lll/Univariate-Linear-Regression/assets/141472096/2cfee163-f082-4698-b871-829f0f3f5795)
+![image](https://github.com/Harish2404lll/Univariate-Linear-Regression/assets/141472096/fc288811-3b6e-4c7c-89c6-ca10c6807588)
+
+
 
 
 ## Result
